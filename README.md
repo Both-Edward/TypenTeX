@@ -1,2 +1,2 @@
 # TypenTeX
-多端LaTeX编译器
+一个多平台LaTeX编译器
