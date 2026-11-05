@@ -42,8 +42,9 @@
 ## 第三方组件与开源许可
 
 本软件包含 Tectonic、Flutter、pdfx、flutter_code_editor 等第三方开源组件，
-其版权声明与许可证全文见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)，
-也可在应用内「TypenTeX 菜单 → 开源许可」查看。
+其版权声明与许可证全文见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)
+（清单与统计）与 [THIRD_PARTY_LICENSES.txt](THIRD_PARTY_LICENSES.txt)
+（各组件许可证原文），也可在应用内「TypenTeX 菜单 → 开源许可」查看。
 
 其中 `flutter_code_editor`（Apache-2.0）与 `pdfx`（MIT）以修改后的版本内置
 编译进安装包，修改范围在该文档与应用内许可证页中说明。

@@ -11,7 +11,10 @@ TypenTeX 随安装包分发以下第三方组件。各组件的版权与许可�
 随安装包一并发布，请勿手工修改。依赖升级时会在新版本发布前重新生成。
 
 许可证全文随安装包分发（APK 内 `assets/third_party_notices.txt`），
+同内容以纯文本形式随本仓库发布：[THIRD_PARTY_LICENSES.txt](THIRD_PARTY_LICENSES.txt)，
 也可在应用内通过「TypenTeX 菜单 → 开源许可 → 查看完整许可证文本」查看。
+
+本文件只含组件清单与统计，各组件的许可证原文请见上述全文文件。
 
 ## 组件清单
 
